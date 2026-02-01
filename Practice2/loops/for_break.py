@@ -12,7 +12,7 @@ for fruit in fruits:
 
 
 total = 0
-for num in range(1, 100):
+for num in range(1, 99):
     total += num
     if total > 50:
         break
