@@ -22,3 +22,9 @@ password = ""
 while password != "secret":
     password = input("Enter password: ")
 print("Access granted")
+
+
+counter = 5
+while counter >= 1:
+    print(f"Countdown: {counter}")
+    counter -= 1

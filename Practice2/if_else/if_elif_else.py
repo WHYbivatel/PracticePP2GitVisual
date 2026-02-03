@@ -38,3 +38,14 @@ elif temperature > 10:
     print("Cool")
 else:
     print("Cold")
+
+
+speed = 45
+if speed > 80:
+    print("Extreme speeding")
+elif speed > 60:
+    print("Moderate speeding")
+elif speed > 40:
+    print("Within limit")
+else:
+    print("Too slow")

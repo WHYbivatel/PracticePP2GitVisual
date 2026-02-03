@@ -16,3 +16,8 @@ print(grade)
 balance = 150
 message = "Sufficient" if balance >= 100 else "Insufficient"
 print(message)
+
+
+temperature = 28
+weather = "Hot" if temperature > 25 else "Cool"
+print(weather)

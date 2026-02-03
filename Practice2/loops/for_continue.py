@@ -24,3 +24,9 @@ for num in numbers:
     if num == 5 or num == 7:
         continue
     print(f"Number: {num}")
+
+
+for i in range(1, 16):
+    if i % 5 == 0:
+        continue
+    print(f"Not divisible by 5: {i}")

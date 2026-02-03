@@ -18,3 +18,8 @@ print(f"Passing grade (>= 50): {score >= 50}")
 list1 = [1, 2, 3, 4, 5]
 list2 = [10, 20]
 print(f"First list longer: {len(list1) > len(list2)}")
+
+
+price = 99
+is_affordable = price <= 100
+print(f"Is affordable: {is_affordable}")

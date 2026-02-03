@@ -24,3 +24,10 @@ if is_raining:
     print("Take an umbrella")
 else:
     print("Enjoy the sunshine")
+
+
+username = "admin"
+if username == "admin":
+    print("Welcome administrator")
+else:
+    print("Welcome user")

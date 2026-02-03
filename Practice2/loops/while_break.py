@@ -33,3 +33,12 @@ while attempts < 10:
         break
 else:
     print("Too many attempts")
+
+
+
+search = 1
+while search <= 50:
+    if search == 25:
+        print(f"Found target: {search}")
+        break
+    search += 1

@@ -26,3 +26,9 @@ purchase_amount = 150
 has_coupon = False
 gets_discount = (is_member and purchase_amount > 100) or has_coupon
 print(f"Gets discount: {gets_discount}")
+
+
+age = 25
+has_ticket = True
+can_enter = age >= 18 and has_ticket
+print(f"Can enter: {can_enter}")

@@ -30,3 +30,11 @@ while count < 10:
         continue
     total += count
 print(f"Total (skipping 7): {total}")
+
+
+num = 0
+while num < 12:
+    num += 1
+    if num % 4 == 0:
+        continue
+    print(f"Not divisible by 4: {num}")

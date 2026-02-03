@@ -16,3 +16,8 @@ if password == "secret123":
 score = 95
 if score >= 90:
     print("Excellent performance")
+
+
+speed = 80
+if speed > 60:
+    print("You are speeding")

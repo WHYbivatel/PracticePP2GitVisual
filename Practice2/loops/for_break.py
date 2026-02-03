@@ -24,3 +24,11 @@ for num in numbers:
     if num > 10:
         print(f"Found number greater than 10: {num}")
         break
+
+
+names = ["Alice", "Bob", "Charlie", "David", "Emma"]
+for name in names:
+    print(f"Name: {name}")
+    if name == "Charlie":
+        print("Found Charlie, stopping search")
+        break

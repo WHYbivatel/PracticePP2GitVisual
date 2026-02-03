@@ -21,3 +21,7 @@ if has_permission:
     print("Access granted")
 else:
     print("Access denied")
+
+
+is_online = True
+print(f"User is online: {is_online}")
