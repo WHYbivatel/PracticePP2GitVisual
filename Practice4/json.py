@@ -8,7 +8,7 @@ print("=" * 80)
 print(f"{'DN':<50} {'Description':<20} {'Speed':<8} {'MTU':<6}")
 print("-" * 80)
 
-for item in data["imdata"]:
+for item in data["imdata"][:3]:
     attributes = item["l1PhysIf"]["attributes"]
     
     dn = attributes["dn"]
