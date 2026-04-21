@@ -7,7 +7,7 @@ import sys
 # -----------------------------
 pygame.init()
 
-# Window settings
+# Window settings.
 WIDTH = 600
 HEIGHT = 600
 CELL_SIZE = 20
