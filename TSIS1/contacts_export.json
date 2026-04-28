@@ -1,0 +1,88 @@
+[
+    {
+        "name": "John",
+        "surname": "Smith",
+        "email": "jogn@gmail.com",
+        "birthday": "2001-01-15",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "123456",
+                "type": "mobile"
+            },
+            {
+                "phone": "123456",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Charlie",
+        "surname": null,
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "555123",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Sanjar",
+        "surname": null,
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "7890",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Harry",
+        "surname": null,
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "1233",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "surname": "Smith",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "1234567",
+                "type": "mobile"
+            },
+            {
+                "phone": "777777",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Charlie",
+        "surname": "Black",
+        "email": null,
+        "birthday": null,
+        "group": null,
+        "phones": [
+            {
+                "phone": "333333",
+                "type": "mobile"
+            }
+        ]
+    }
+]
